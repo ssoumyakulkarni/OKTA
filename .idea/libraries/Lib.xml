@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Lib">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/announce" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/antlr" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/base-services" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/base-services-groovy" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/build-cache" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/build-cache-http" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/build-comparison" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/build-init" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/build-option" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/cli" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/code-quality" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/composite-builds" />
+      <root url="file://C:/gradle-4.5.1/gradle-4.5.1/src/core" />
+    </SOURCES>
+  </library>
+</component>
