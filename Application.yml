@@ -1,0 +1,9 @@
+Spring
+profile.active:development
+
+Spring:
+profiles:
+
+datasource:
+  baseurl:"https://dev-497565.oktapreview.com/api/v1/"
+  apikey:"00VGZZkHlvvRi9EnjAcipuNPqP4ECzzXRHbHdorify"
